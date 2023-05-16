@@ -1,0 +1,22 @@
+h1 {
+  background-color: red;
+}
+
+/* Path: public\stylesheets\design.css */
+
+#search1{
+  background-color: blue;
+  margin-top:200px;
+}
+
+body {
+  background-color: green;
+}
+
+.card-title{
+  background-color: yellow;
+  font-family: 'Roboto', sans-serif;
+}
+
+.card{margin-left: 12.5%;}
+.card-img{height: 24rem;}
